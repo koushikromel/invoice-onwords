@@ -1,0 +1,4 @@
+open terminal on focusing this react folder and 
+	1. run ' npm install '
+	2. run ' npm run build '
+	2. and then ' npm start '

@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3b99dd66.chunk.css",
+    "main.js": "/static/js/main.6b5e5c58.chunk.js",
+    "main.js.map": "/static/js/main.6b5e5c58.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b889a1c5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b889a1c5.js.map",
+    "static/js/2.2546108c.chunk.js": "/static/js/2.2546108c.chunk.js",
+    "static/js/2.2546108c.chunk.js.map": "/static/js/2.2546108c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.3b99dd66.chunk.css.map": "/static/css/main.3b99dd66.chunk.css.map",
+    "static/js/2.2546108c.chunk.js.LICENSE.txt": "/static/js/2.2546108c.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Avenir-Light.fd2b98a6.ttf",
+    "static/media/onw.7ef4f0ca.png": "/static/media/onw.7ef4f0ca.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b889a1c5.js",
+    "static/js/2.2546108c.chunk.js",
+    "static/css/main.3b99dd66.chunk.css",
+    "static/js/main.6b5e5c58.chunk.js"
+  ]
+}

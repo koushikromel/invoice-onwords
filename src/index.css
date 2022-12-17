@@ -1,0 +1,62 @@
+@font-face {
+  font-family: myFirstFont;
+  src: url(./components/Avenir-Light.ttf);
+}
+
+body {
+  margin: 0;
+  font-family: myFirstFont;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f1f1f1;
+}
+
+label {
+  margin-bottom: 0.3rem;
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: #383838;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* input,
+textarea {
+  background-color: #f1f1f1;
+  padding: 0.5rem;
+  border-radius: 0.2rem;
+  margin-bottom: 2rem;
+  color: #616161;
+} */
+
+button {
+  user-select: none;
+}
+
+
+.footer li {
+  margin: 0.5rem 0.2rem;
+}
+
+/* .foo1{
+  width: 50%;
+  float: le;
+} */
+.foo-left {
+  width: 50%;
+  float: left;
+}
+
+.foo-right {
+  width: 50%;
+  float: right;
+}
+
+/* .foo-left{
+
+}
+  */
